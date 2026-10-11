@@ -408,7 +408,7 @@ s24D7,,<12>The seed sprouted! Obtained %s!,<12>Семя проросло! Пол
 s24EE,,<10>You don't have any seeds.,<10>У тебя нет семян.
 s2500,, GP, GP
 s2504,,<12><01>%s<17>Strength     :%2d<17>Dexterity    :%2d<17>Stamina      :%2d<17>Intellect    :%2d<17>Spirit       :%2d<17>Luck         :%2d,<12><01>%s<17>Сила :%2d<17>Ловкость :%2d<17>Выносливость:%2d<17>Разум :%2d<17>Дух :%2d<17>Удача :%2d
-s2556,,<10>Raise your %s?,<10>Увеличить %s?
+s2556,,<10>Raise your %s?,<10>Повысить: %s?
 s2562,,<10>Raised %s!,<10>Повышено: %s!
 s256B,,Strength,Сила
 s2571,,Dexterity,Ловкость

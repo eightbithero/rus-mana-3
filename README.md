@@ -2,11 +2,10 @@
 
 <img src="screenshots/title.png" width="400"> <img src="screenshots/intro_1.png" width="400">
 <img src="screenshots/intro_2.png" width="400"> <img src="screenshots/name_entry.png" width="400">
-<img src="screenshots/prologue.png" width="400"> <img src="screenshots/tournament_1.png" width="400">
+<img src="screenshots/tournament_1.png" width="400">
 <img src="screenshots/tournament_2.png" width="400"> <img src="screenshots/tournament_3.png" width="400">
 <img src="screenshots/shop.png" width="400"> <img src="screenshots/shop_buy.png" width="400">
 <img src="screenshots/controls.png" width="400">
-
 ЧТО ЭТО
 -------
 Перевод Seiken Densetsu 3 / Trials of Mana (SNES, 1995) на русский язык.
@@ -41,12 +40,7 @@ Mana (без копир-заголовка):
   MD5      c9829d76e25f8c4bf459cf77a8306825
   SHA-1    462580125693a73da90da08d415023a885d84d1d
 ```
-Результат:
-```
-  CRC32    815B3F7A
-  MD5      a4ca895263ee33284ae666af8c120a83
-  SHA-1    943b87ef71dfe3537d9b275589630aa3458bf4e2
-```
+
 Подойдёт любой IPS-патчер: Flips, Lunar IPS или онлайн-патчер
 https://www.marcrobledo.com/RomPatcher.js/
 
@@ -105,11 +99,6 @@ Mana, unheadered:
   MD5      c9829d76e25f8c4bf459cf77a8306825
   SHA-1    462580125693a73da90da08d415023a885d84d1d
 ```
-Result:
-```
-  CRC32    815B3F7A
-  MD5      a4ca895263ee33284ae666af8c120a83
-  SHA-
 
 [translation.csv](translation.csv) holds the full script: `id`, Japanese
 original, English original and the Russian text as built into the ROM.
