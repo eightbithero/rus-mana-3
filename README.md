@@ -6,6 +6,13 @@
 <img src="screenshots/tournament_2.png" width="400"> <img src="screenshots/tournament_3.png" width="400">
 <img src="screenshots/shop.png" width="400"> <img src="screenshots/shop_buy.png" width="400">
 <img src="screenshots/controls.png" width="400">
+
+Концовка:
+
+<img src="screenshots/ending_1.png" width="400"> <img src="screenshots/ending_2.png" width="400">
+<img src="screenshots/ending_3.png" width="400"> <img src="screenshots/ending_4.png" width="400">
+<img src="screenshots/ending_5.png" width="400"> <img src="screenshots/credits.png" width="400">
+
 ЧТО ЭТО
 -------
 Перевод Seiken Densetsu 3 / Trials of Mana (SNES, 1995) на русский язык.
