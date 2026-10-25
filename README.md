@@ -89,6 +89,17 @@ IPS не проверяет исходный файл. Если результа
   * Имя героя подставляется в текст всегда в именительном падеже, поэтому
     некоторые фразы построены так, чтобы имя не склонялось.
 
+НА РЕАЛЬНОМ ЖЕЛЕЗЕ
+------------------
+<img src="screenshots/hardwarepatch.jpeg" width="400">
+
+Патч проверяется на настоящей консоли. Плата SD3-RU с флеш-памятью
+устанавливается вместо масочного ROM в оригинальный японский картридж
+Seiken Densetsu 3 (SHVC-A3DJ-JPN).
+
+Статус: идёт плейтест. Файлы проекта платы будут опубликованы после его
+завершения.
+
 ---
 
 ## English
@@ -109,3 +120,6 @@ Mana, unheadered:
 
 [translation.csv](translation.csv) holds the full script: `id`, Japanese
 original, English original and the Russian text as built into the ROM.
+
+A ROM-replacement board (SD3-RU) for an original Japanese Seiken Densetsu 3
+cartridge is in playtesting; its project files will be published afterwards.
