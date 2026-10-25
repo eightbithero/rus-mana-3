@@ -94,8 +94,8 @@ IPS не проверяет исходный файл. Если результа
 <img src="screenshots/hardwarepatch.jpeg" width="400">
 
 Патч проверяется на настоящей консоли. Плата SD3-RU с флеш-памятью
-устанавливается вместо масочного ROM в оригинальный японский картридж
-Seiken Densetsu 3 (SHVC-A3DJ-JPN).
+устанавливается вместо ROM-чипов в оригинальный японский картридж
+Seiken Densetsu 3 (SHVC-A3DJ-JPN). Плата совместима с Sanni Dumper.
 
 Статус: идёт плейтест. Файлы проекта платы будут опубликованы после его
 завершения.
@@ -122,4 +122,5 @@ Mana, unheadered:
 original, English original and the Russian text as built into the ROM.
 
 A ROM-replacement board (SD3-RU) for an original Japanese Seiken Densetsu 3
-cartridge is in playtesting; its project files will be published afterwards.
+cartridge is in playtesting; it is compatible with Sanni Dumper. Project
+files will be published afterwards.
